@@ -7,7 +7,7 @@
 
 ### Documentation for my work
 * Instead of returning a JSONObject, the new method returns a Future with JSONObject. 
-* I wrote a runner to run the asyncronized methods. You add the future tasks using the "add" method, and then use the "run" method to run the runner.
+* I wrote a runner to run the asyncronized methods. Please add the future tasks using the "add" method, and then use the "run" method to run the runner.
 
 ### Thank you very much! 
 
